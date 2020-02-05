@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Cats</title>
+        <style>
+        body {
+            font-family: sans-serif;
+            color:rgb(211 122, 255);
+        }
+        
+        h2 {
+            font-family:cursive;
+            color:rgb(0, 232, 15);
+        }
+        
+        #panda-info-heading {
+            background-color: purple;
+        }
+        
+        p {
+            color:rgb(191, 0, 255);   
+            font-family: "Helvetica", sans-serif;
+        }
+        
+        #panda-info {
+            color:purple;
+            font-weight:bold;
+            text-decoration: underline;
+        }
+        
+        .song-lyrics {
+            background-color: yellow;
+            font-family: fantasy;
+            font-size: 13px;
+            font-style: italic;
+            line-height: 1.5em;
+            text-align: center;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        </style>
+    </head>
+    <body>
+    
+    <h1>All about cats!</h1>
+    
+    <h2 id="cat-info-heading">Basic info</h2>
+    
+    <p id="panda-info"> Cats are little creatures with long ears and fluffy fur, and they have really good ear sense. They have many different color fur, and they eat fish in <em>our</em> world, and <strong>they are really smaller than any little animals <em>ever</em> has</strong>.</p>
+    
+    <p>Learn more on <a href="https://en.wikipedia.org/wiki/Cat">Wikipedia</a>.</p>
+    
+    <h2>Songs</h2>
+    
+    <p class="song-lyrics">Little Cat Boo Boo, <br>
+I want to see you <br>
+running around the forest <br>
+and dancing and singing in the wood!</p>
+
+    <p class="song-lyrics">And came the baby cat <br>
+And she said <br>
+"Little Cat Boo Boo <br>
+I like you're smile <br>
+Running around the forest <br>
+And dancing and singing in the wood" <br>
+    </p>
+    
+    <p class="song-lyrics">I'll give you 6 chances. <br>
+Then I'll turn you into a fairy! <br>
+The next morning...</p>
+
+    <img src="https://www.kasandbox.org/programming-images/animals/cat.png" alt="Panda with big ears in zoo" width="203">
+    
+    <h3> Why cats are great pets</h3>
+    
+    <ul>
+        <li>They're fluffy!</li>
+        <li>Great listeners!</li>
+        <li>Eat fish!</li>
+    </ul>
+    
+    <h3> Top 3 most famous cats</h3>
+    
+    <ol>
+        <li>Maru</li>
+        <li>Lil bub</li>
+        <li>Grumpy cat</li>
+    </ol>
+    
+    
+    </body>
+</html>
